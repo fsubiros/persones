@@ -1,0 +1,2 @@
+# persones
+Inventari accions personal
